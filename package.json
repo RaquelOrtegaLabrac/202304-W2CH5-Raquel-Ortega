@@ -1,7 +1,7 @@
 {
   "name": "w2-ch4",
   "version": "1.0.0",
-  "description": "",
+  "description": "Implementa, por parejas, funciones que simulen el comportamiento de los métodos de Array y que tenga estos métodos y propiedades:",
   "main": "index.js",
   "type": "module",
   "scripts": {
